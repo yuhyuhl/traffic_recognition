@@ -1,5 +1,5 @@
 # MSc project on traffic sign image classification
-=========
+
 ## Traffic Sign Recognition Using Machine Learning and Deep Learning
 
 This project investigates traffic sign image classification using the German Traffic Sign Recognition Benchmark (GTSRB).
