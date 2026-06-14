@@ -1,0 +1,14 @@
+Setting,Value
+Random seed,42
+Training samples,31367
+Validation samples,7842
+Test samples,12630
+Number of classes,43
+Image width,32
+Image height,32
+Number of channels,3
+Batch size,64
+Training augmentation,Random rotation and colour jitter
+Horizontal flipping,Not used
+Normalisation mean,"[0.5, 0.5, 0.5]"
+Normalisation standard deviation,"[0.5, 0.5, 0.5]"

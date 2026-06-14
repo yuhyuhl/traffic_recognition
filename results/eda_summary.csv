@@ -1,0 +1,17 @@
+Statistic,Value
+Training images,39209.0
+Test images,12630.0
+Number of classes,43.0
+Minimum class size,210.0
+Maximum class size,2250.0
+Mean class size,911.84
+Minimum image width,25.0
+Maximum image width,243.0
+Mean image width,50.84
+Minimum image height,25.0
+Maximum image height,225.0
+Mean image height,50.33
+Missing training images,0.0
+Corrupted training images,0.0
+Missing test images,0.0
+Corrupted test images,0.0
