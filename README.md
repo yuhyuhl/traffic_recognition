@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-# traffic_recognition
-MSc project on traffic sign image classification
-=======
-# Traffic Sign Recognition Using Machine Learning and Deep Learning
+# MSc project on traffic sign image classification
+=========
+## Traffic Sign Recognition Using Machine Learning and Deep Learning
 
 This project investigates traffic sign image classification using the German Traffic Sign Recognition Benchmark (GTSRB).
 
-## Project Objectives
+### Project Objectives
 
 - Explore and prepare the GTSRB dataset.
 - Implement a baseline convolutional neural network.
@@ -14,7 +12,7 @@ This project investigates traffic sign image classification using the German Tra
 - Compare model performance using classification metrics.
 - Analyse class-level errors and model limitations.
 
-## Dataset
+### Dataset
 
 The project uses the GTSRB dataset, which contains:
 
@@ -23,21 +21,10 @@ The project uses the GTSRB dataset, which contains:
 - 43 traffic sign classes
 
 The raw dataset is not included in this repository. It can be downloaded separately from the GTSRB or Kaggle dataset page.
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign 
 
-## Current Progress
+### Project Structure
 
-- Dataset selected and downloaded
-- Exploratory data analysis completed
-- Class distribution analysed
-- Image dimensions analysed
-- Missing and corrupted images checked
-- Stratified training and validation split created
-- PyTorch Dataset and DataLoader implemented
-- Image preprocessing and augmentation pipeline completed
-
-## Project Structure
-
-```text
 data/processed/     Saved dataset split files
 notebooks/          Data exploration and preprocessing notebooks
 results/            Tables and generated figures
