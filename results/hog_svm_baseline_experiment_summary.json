@@ -1,0 +1,32 @@
+{
+    "dataset": {
+        "training_samples": 31367,
+        "validation_samples": 7842,
+        "test_samples": 12630,
+        "number_of_classes": 43
+    },
+    "feature_extraction": {
+        "method": "Histogram of Oriented Gradients",
+        "number_of_features": 1764,
+        "training_extraction_seconds": 62.397847660000025,
+        "validation_extraction_seconds": 14.051614797000013,
+        "test_extraction_seconds": 22.785514722000016
+    },
+    "dummy_baseline": {
+        "validation_accuracy": 0.057383320581484314,
+        "validation_macro_f1": 0.0025241476794669003,
+        "test_accuracy": 0.05938242280285035,
+        "test_macro_f1": 0.002607154030660131
+    },
+    "hog_svm": {
+        "validation_accuracy": 0.9493751593981127,
+        "validation_macro_f1": 0.9578698389846588,
+        "test_accuracy": 0.8771179730799683,
+        "test_macro_precision": 0.8628344472582256,
+        "test_macro_recall": 0.8655201453977995,
+        "test_macro_f1": 0.8623472406852613,
+        "test_weighted_f1": 0.8765017492963572,
+        "training_seconds": 21142.930242825998,
+        "test_prediction_seconds": 0.7525272420025431
+    }
+}
