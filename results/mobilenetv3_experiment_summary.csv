@@ -1,0 +1,2 @@
+model,pretrained,input_size,batch_size,feature_extraction_epochs,fine_tuning_epochs,best_validation_accuracy,best_validation_loss,test_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,total_parameters,total_training_time_seconds,total_training_time_minutes,mean_inference_ms_per_image,device,random_seed
+MobileNetV3-Large,True,224,32,5,5,0.9825299668451926,0.05184481771996787,0.8906571654790182,0.8487313193639564,0.8271700514966439,0.8325521087935405,0.890309342454531,4257115,56261.62965273857,937.6938275456429,26.226005550423785,cpu,42

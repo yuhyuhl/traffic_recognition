@@ -1,0 +1,2 @@
+model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,test_images,inference_time_seconds,mean_inference_ms_per_image,total_parameters,trainable_parameters_final_stage
+MobileNetV3-Large,0.8906571654790182,0.8487313193639564,0.8271700514966439,0.8325521087935405,0.8963613611025252,0.8906571654790182,0.890309342454531,12630,331.2344501018524,26.226005550423785,4257115,3035403

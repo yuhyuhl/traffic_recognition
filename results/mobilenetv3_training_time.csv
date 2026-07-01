@@ -1,0 +1,3 @@
+stage,epochs_completed,total_time_seconds,mean_epoch_time_seconds,total_time_minutes
+Feature extraction,5,43996.16378521919,8799.23275704384,733.2693964203198
+Fine-tuning,5,12265.465867519379,2453.0931735038757,204.42443112532297
