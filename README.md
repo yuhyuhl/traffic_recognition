@@ -1,4 +1,4 @@
-# MSc project on traffic sign image classification
+# MSc Project 
 
 ## Traffic Sign Recognition Using Machine Learning and Deep Learning
 
