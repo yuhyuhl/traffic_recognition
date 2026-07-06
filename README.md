@@ -21,12 +21,15 @@ The project uses the GTSRB dataset, which contains:
 - 43 traffic sign classes
 
 The raw dataset is not included in this repository. It can be downloaded separately from the GTSRB or Kaggle dataset page.
-https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign 
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign  
 
 ### Project Structure
 
 data/processed/     Saved dataset split files
+
 notebooks/          Data exploration and preprocessing notebooks
+
 results/            Tables and generated figures
+
 src/                Reusable Python source code
->>>>>>> Dataset exploration and preprocessing pipeline completed
+
