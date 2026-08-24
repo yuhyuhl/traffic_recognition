@@ -4,11 +4,6 @@
 
 This project investigates traffic sign image classification using the German Traffic Sign Recognition Benchmark (GTSRB).
 
-#### Author
-
-Yuhan Liu
-University of Leeds
-
 The four evaluated approaches are:
 - HOG + Linear SVM
 - Custom CNN
@@ -73,3 +68,10 @@ traffic_recognition/
 └── .gitignore
 
 Large dataset files, generated models, local environments, and temporary files may be excluded from version control through .gitignore. 
+
+
+#### Author
+
+Yuhan Liu
+
+University of Leeds
