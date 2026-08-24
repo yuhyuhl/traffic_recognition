@@ -1,13 +1,13 @@
 ## MSc Project 
 
+### Traffic Sign Recognition: Comparative Study of Machine Learning and Deep Learning Approaches
+
+This project investigates traffic sign image classification using the German Traffic Sign Recognition Benchmark (GTSRB).
+
 #### Author
 
 Yuhan Liu
 University of Leeds
-
-### Traffic Sign Recognition: Comparative Study of Machine Learning and Deep Learning Approaches
-
-This project investigates traffic sign image classification using the German Traffic Sign Recognition Benchmark (GTSRB).
 
 The four evaluated approaches are:
 - HOG + Linear SVM
