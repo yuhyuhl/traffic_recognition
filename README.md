@@ -35,6 +35,7 @@ https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 The project follows a notebook-based experimental workflow:
 
+```text
 01_data_exploration.ipynb
         ↓
 02_data_preprocessing.ipynb
@@ -51,6 +52,7 @@ Saved models, predictions and evaluation results
 07_model_comparison_evaluation.ipynb
 
 Each model notebook uses the same saved dataset split so that differences in performance are not caused by different sample allocations.
+```
 
 #### Repository Structure
 
