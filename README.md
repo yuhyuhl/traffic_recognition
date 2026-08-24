@@ -1,5 +1,12 @@
 ## MSc Project 
 
+#### Author
+
+Yuhan Liu
+
+University of Leeds
+
+
 ### Traffic Sign Recognition: Comparative Study of Machine Learning and Deep Learning Approaches
 
 This project investigates traffic sign image classification using the German Traffic Sign Recognition Benchmark (GTSRB).
@@ -45,33 +52,28 @@ Saved models, predictions and evaluation results
 
 Each model notebook uses the same saved dataset split so that differences in performance are not caused by different sample allocations.
 
-#### Project Structure
+#### Repository Structure
 
+```text
 traffic_recognition/ 
 │ 
 ├── data/
-│   └── raw/            Original dataset files
-│   └── processed/      Saved dataset split files
+│   └── raw/            # Original dataset files
+│   └── processed/      # Saved dataset split files
 │ 
-├── notebooks/          Data exploration and preprocessing notebooks
+├── notebooks/          # Data exploration and preprocessing notebooks
 │ 
-├── models/
+├── models/             # Save trained models
 │ 
-├── results/            Tables and generated figures
-│   └── figures/        
-│   └── tables/
+├── results/            # Evaluation results
+│   └── figures/        # Generated figures
+│   └── tables/.        # Generated tables
 │ 
-├── src/                Reusable Python source code
+├── src/                # Reusable Python source code
 │   └── dataset.py
 │   
 ├── README.md
 └── .gitignore
+```
 
 Large dataset files, generated models, local environments, and temporary files may be excluded from version control through .gitignore. 
-
-
-#### Author
-
-Yuhan Liu
-
-University of Leeds
